@@ -1,0 +1,1 @@
+learn about printf funtion and basic structure of c 
